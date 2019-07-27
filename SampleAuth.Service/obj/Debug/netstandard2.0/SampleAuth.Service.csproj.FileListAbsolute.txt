@@ -1,0 +1,9 @@
+D:\SampleAuth\SampleAuth.Service\bin\Debug\netstandard2.0\SampleAuth.Service.deps.json
+D:\SampleAuth\SampleAuth.Service\bin\Debug\netstandard2.0\SampleAuth.Service.dll
+D:\SampleAuth\SampleAuth.Service\bin\Debug\netstandard2.0\SampleAuth.Service.pdb
+D:\SampleAuth\SampleAuth.Service\obj\Debug\netstandard2.0\SampleAuth.Service.csprojAssemblyReference.cache
+D:\SampleAuth\SampleAuth.Service\obj\Debug\netstandard2.0\SampleAuth.Service.csproj.CoreCompileInputs.cache
+D:\SampleAuth\SampleAuth.Service\obj\Debug\netstandard2.0\SampleAuth.Service.AssemblyInfoInputs.cache
+D:\SampleAuth\SampleAuth.Service\obj\Debug\netstandard2.0\SampleAuth.Service.AssemblyInfo.cs
+D:\SampleAuth\SampleAuth.Service\obj\Debug\netstandard2.0\SampleAuth.Service.dll
+D:\SampleAuth\SampleAuth.Service\obj\Debug\netstandard2.0\SampleAuth.Service.pdb
